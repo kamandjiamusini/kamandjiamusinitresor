@@ -1,6 +1,6 @@
 Software Engineer | Passionate about crafting elegant solutions
 
-👋 Hello, I'm KAMANDJI AMUSINI TRESOR! 👨‍💻
+👋 Hello, I'm KAMANDJI AMUSINI ! 👨‍💻
 
 🌟 Software engineer with a strong passion for writing clean, efficient, and scalable code. I enjoy building innovative and impactful solutions to real-world problems.
 
